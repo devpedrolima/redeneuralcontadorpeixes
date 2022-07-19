@@ -1,0 +1,5 @@
+classes = 16
+train = data/train.txt
+valid = data/test.txt
+names = data/obj.names
+backup = /mydrive/Projeto-Peixes-Iohan-e-Yuri/Base-de-Dados/yolov4/backup
