@@ -1,0 +1,19 @@
+-------identificação automática e contagem de todos os tipos de células sanguíneas-------
+https://github.com/MahmudulAlam/Automatic-Identification-and-Counting-of-Blood-Cells
+
+
+-------Modelo de contagem de multidões-------
+https://github.com/val-iisc/crowd-counting-scnn
+
+
+-------Contagem de multidões por meio de rede neural convolucional adaptativa à escala-------
+https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu
+
+
+-------Implementação de AMDCN, uma rede neural convolucional para contagem de objetos em imagens.-------
+https://github.com/diptodip/counting
+
+
+-------Treinamento da rede neural convolucional com YOLO-------
+https://pysource.com/2020/04/02/train-yolo-to-detect-a-custom-object-online-with-free-gpu/
+https://www.youtube.com/watch?v=_FNfRtXEbr4
